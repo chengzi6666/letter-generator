@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+    <!-- 基础背景 -->
+    <rect width="400" height="600" fill="#ffffff"/>
+    
+    <!-- 对角线网格线 -->
+    <pattern id="diagonalLines" width="20" height="20" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+        <line x1="0" y1="0" x2="0" y2="20" stroke="#f0f0f0" stroke-width="1"/>
+    </pattern>
+    <rect width="400" height="600" fill="url(#diagonalLines)"/>
+    
+    <!-- 顶部装饰条 -->
+    <rect x="0" y="0" width="400" height="20" fill="#e3f2fd"/>
+    
+    <!-- 底部装饰条 -->
+    <rect x="0" y="580" width="400" height="20" fill="#e3f2fd"/>
+</svg>

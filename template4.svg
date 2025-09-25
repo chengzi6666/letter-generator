@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+    <!-- 米白色背景 -->
+    <rect width="400" height="600" fill="#fffaf0"/>
+    
+    <!-- 信纸线条 -->
+    <g stroke="#f0f0f0" stroke-width="1">
+        <line x1="0" y1="100" x2="400" y2="100"/>
+        <line x1="0" y1="140" x2="400" y2="140"/>
+        <line x1="0" y1="180" x2="400" y2="180"/>
+        <line x1="0" y1="220" x2="400" y2="220"/>
+        <line x1="0" y1="260" x2="400" y2="260"/>
+        <line x1="0" y1="300" x2="400" y2="300"/>
+        <line x1="0" y1="340" x2="400" y2="340"/>
+        <line x1="0" y1="380" x2="400" y2="380"/>
+        <line x1="0" y1="420" x2="400" y2="420"/>
+        <line x1="0" y1="460" x2="400" y2="460"/>
+        <line x1="0" y1="500" x2="400" y2="500"/>
+        <line x1="0" y1="540" x2="400" y2="540"/>
+    </g>
+    
+    <!-- 左侧装饰边 -->
+    <rect x="0" y="0" width="40" height="600" fill="#f5f5dc"/>
+    
+    <!-- 装饰图案 -->
+    <path d="M20,50 Q40,20 60,50 T100,50" fill="none" stroke="#d4a76a" stroke-width="1"/>
+    <path d="M20,150 Q40,120 60,150 T100,150" fill="none" stroke="#d4a76a" stroke-width="1"/>
+    <path d="M20,250 Q40,220 60,250 T100,250" fill="none" stroke="#d4a76a" stroke-width="1"/>
+    <path d="M20,350 Q40,320 60,350 T100,350" fill="none" stroke="#d4a76a" stroke-width="1"/>
+    <path d="M20,450 Q40,420 60,450 T100,450" fill="none" stroke="#d4a76a" stroke-width="1"/>
+    <path d="M20,550 Q40,520 60,550 T100,550" fill="none" stroke="#d4a76a" stroke-width="1"/>
+</svg>

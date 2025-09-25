@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+    <!-- 基础白色背景 -->
+    <rect width="400" height="600" fill="#ffffff"/>
+    
+    <!-- 页面边缘细微阴影 -->
+    <rect x="0" y="0" width="400" height="600" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+    
+    <!-- 左上角和右上角装饰元素 -->
+    <path d="M0,0 L50,0 L50,10 L10,10 L10,50 L0,50 Z" fill="#f0f0f0"/>
+    <path d="M400,0 L350,0 L350,10 L390,10 L390,50 L400,50 Z" fill="#f0f0f0"/>
+</svg>
